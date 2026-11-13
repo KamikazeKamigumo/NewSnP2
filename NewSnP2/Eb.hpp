@@ -1,5 +1,5 @@
 // JRŠeŽÐ EB‘•’u
-// Copyright (C) 2024-2025 TomyRailway
+// Copyright (C) 2024-2026 KamikazeKamigumo
 
 #ifndef ATS_EB_HPP_INCLUDED
 #define ATS_EB_HPP_INCLUDED

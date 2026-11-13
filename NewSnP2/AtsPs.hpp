@@ -1,5 +1,5 @@
 // JR“Œ“ú–{ ATS-Ps
-// Copyright (C) 2024-2025 TomyRailway
+// Copyright (C) 2024-2026 KamikazeKamigumo
 
 #ifndef ATS_ATSPS_HPP_INCLUDED
 #define ATS_ATSPS_HPP_INCLUDED
