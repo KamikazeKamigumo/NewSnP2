@@ -1,5 +1,5 @@
 // JR“Œ“ú–{ D-ATC
-// Copyright (C) 2024-2025 TomyRailway
+// Copyright (C) 2024-2026 KamikazeKamigumo
 
 #ifndef ATS_DATC_HPP_INCLUDED
 #define ATS_DATC_HPP_INCLUDED

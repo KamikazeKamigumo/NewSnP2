@@ -209,7 +209,6 @@
     <ClInclude Include="DAtc.hpp" />
     <ClInclude Include="Date.hpp" />
     <ClInclude Include="Eb.hpp" />
-    <ClInclude Include="Msaf.hpp" />
     <ClInclude Include="NewSnp2Cfg.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="Spp.h" />
