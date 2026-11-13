@@ -3,8 +3,8 @@
 Unicorn氏が以前公開していた「JR東日本 次世代車両向け ATSプラグイン(通称Sn/P2プラグイン)」をベースにバグ修正、および新機能を追加したプラグインです。  
 
 現在、開発に協力して頂ける方を募集しております。  
-有用な機能は是非付属させたいと考えておりますので、[プルリク](https://github.com/TomyRailway/NewSnP2/pulls)を送っていただけますと幸いです。  
-その他、実装してほしい機能等がありましたら、[issues](https://github.com/TomyRailway/NewSnP2/issues)を利用してご連絡ください
+有用な機能は是非付属させたいと考えておりますので、[プルリク](https://github.com/KamikazeKamigumo/NewSnP2/pulls)を送っていただけますと幸いです。  
+その他、実装してほしい機能等がありましたら、[issues](https://github.com/KamikazeKamigumo/NewSnP2/issues)を利用してご連絡ください
 
 ## プラグインの機能
 ATS-SN・ATS-P・ATC-6・ATC-10・D-ATC・TIMS・EBなど  
@@ -21,7 +21,9 @@ GNU General Public License v3.0が適用されます。
 Copyright (c) 2022-2026 automatic9045
 
 ## 現在の最新バージョン
-[Version1.03(2025/10/26版)](https://github.com/TomyRailway/NewSnp2/releases/tag/Version1.03)
+[Version1.04α(2026/11/13版)](https://github.com/KamikazeKamigumo/NewSnP2/releases/tag/Version1.04α)
 
-## 端子台
+## その他補足
 端子台は[Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1hismVojo9I8iO6cHoQmOT9DAAMhSxIcc)よりどうぞ
+
+Copyright (c) 2024-2026 KamikazeKamigumo 
